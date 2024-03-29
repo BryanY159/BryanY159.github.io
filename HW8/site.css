@@ -1,0 +1,64 @@
+#body{
+    width: 1200px;
+    padding: 25px;
+
+    display: flex;
+    flex-direction: column;
+}
+#body1 {
+    display: flex;
+    flex-direction: row;
+}
+#body2 {
+    display: flex;
+    flex-direction: column;
+}
+
+#body3 {
+    display: flex;
+    flex-direction: row;
+}
+
+
+#header
+{
+    width: 1200px;
+    color: dodgerblue;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#body-profile {
+    width: 400px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#body-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#body-bio {
+    width: 800px;
+}
+#body-int {
+    width: 250px;
+}
+#body-edu {
+    width: 550px;
+}
+#footer1 {
+    width: 1200px;
+    background-color:#ededed;
+}
+#footer2 {
+    width: 1200px;
+    background-color: #faf7f7;
+    color: dimgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
